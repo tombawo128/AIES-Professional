@@ -9,7 +9,7 @@
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-[Live Demo](https://your-app.vercel.app) · [Report a Bug](https://github.com/UpSkillHub/AIES-professional/issues) · [Request a Feature](https://github.com/UpSkillHub/AIES-professional/issues)
+[Live Demo](https://aies-professional.vercel.app/login) · [Report a Bug](https://github.com/UpSkillHub/AIES-professional/issues) · [Request a Feature](https://github.com/UpSkillHub/AIES-professional/issues)
 
 <!-- Add a screenshot or GIF of the dashboard here -->
 <img src="docs/images/banner.png" alt="AIES dashboard preview" width="800"/>
