@@ -13,6 +13,7 @@
 
 <!-- Add a screenshot or GIF of the dashboard here -->
 <img src="docs/images/banner.png" alt="AIES dashboard preview" width="800"/>
+<img width="1919" height="1079" alt="Screenshot 2026-11-08 131429" src="https://github.com/user-attachments/assets/d05a9a1a-a196-4911-b209-803c16fd4c87" />
 
 </div>
 
